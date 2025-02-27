@@ -1,0 +1,245 @@
+[
+    {
+        "password": "knwsx",
+        "activities": [
+            {
+                "activity": "Car",
+                "carbonFootprint": 5.2,
+                "category": "Transport",
+                "doneDate": "2024-12-01"
+            },
+            {
+                "activity": "Vegetarian",
+                "carbonFootprint": 1.8,
+                "category": "Food",
+                "doneDate": "2024-12-02"
+            },
+            {
+                "activity": "Gas",
+                "carbonFootprint": 24,
+                "category": "Energy",
+                "doneDate": "2024-12-18"
+            },
+            {
+                "activity": "Vegetarian",
+                "carbonFootprint": 56,
+                "category": "Food",
+                "doneDate": "2024-12-18"
+            },
+            {
+                "activity": "Bike",
+                "carbonFootprint": 78,
+                "category": "Transport",
+                "doneDate": "2024-12-18"
+            }
+        ],
+        "id": 1869001550,
+        "username": "admin"
+    },
+    {
+        "password": "zkccgybnXYZ",
+        "activities": [
+            {
+                "activity": "Electricity",
+                "carbonFootprint": 3.5,
+                "category": "Energy",
+                "doneDate": "2024-12-05"
+            },
+            {
+                "activity": "Vegan",
+                "carbonFootprint": 2.3,
+                "category": "Food",
+                "doneDate": "2024-12-06"
+            }
+        ],
+        "id": -776933325,
+        "username": "jane_doe"
+    },
+    {
+        "password": "zkccgybn[\\]",
+        "activities": [
+            {
+                "activity": "Bike",
+                "carbonFootprint": 4,
+                "category": "Transport",
+                "doneDate": "2024-12-03"
+            },
+            {
+                "activity": "Solar",
+                "carbonFootprint": 2.2,
+                "category": "Energy",
+                "doneDate": "2024-12-04"
+            }
+        ],
+        "id": 2054924538,
+        "username": "alice_smith"
+    },
+    {
+        "password": "zkccgybnTTT",
+        "activities": [
+            {
+                "activity": "Ketto",
+                "carbonFootprint": 3.1,
+                "category": "Food",
+                "doneDate": "2024-12-07"
+            },
+            {
+                "activity": "Walk",
+                "carbonFootprint": 1.6,
+                "category": "Transport",
+                "doneDate": "2024-12-08"
+            }
+        ],
+        "id": -1923729681,
+        "username": "bob_jones"
+    },
+    {
+        "password": "zkccgybnUUV",
+        "activities": [
+            {
+                "activity": "Gas",
+                "carbonFootprint": 2.7,
+                "category": "Energy",
+                "doneDate": "2024-12-09"
+            },
+            {
+                "activity": "Plane",
+                "carbonFootprint": 5.5,
+                "category": "Transport",
+                "doneDate": "2024-12-10"
+            }
+        ],
+        "id": 2020258616,
+        "username": "charlie_brown"
+    },
+    {
+        "password": "zkccgybnVVW",
+        "activities": [
+            {
+                "activity": "Vegan",
+                "carbonFootprint": 2.8,
+                "category": "Food",
+                "doneDate": "2024-12-11"
+            },
+            {
+                "activity": "Tram",
+                "carbonFootprint": 3.2,
+                "category": "Transport",
+                "doneDate": "2024-12-12"
+            }
+        ],
+        "id": -1202797759,
+        "username": "david_wilson"
+    },
+    {
+        "password": "zkccgybnWWX",
+        "activities": [
+            {
+                "activity": "Solar",
+                "carbonFootprint": 4.4,
+                "category": "Energy",
+                "doneDate": "2024-12-13"
+            },
+            {
+                "activity": "Vegetarian",
+                "carbonFootprint": 3,
+                "category": "Food",
+                "doneDate": "2024-12-14"
+            }
+        ],
+        "id": -759644465,
+        "username": "eva_davis"
+    },
+    {
+        "password": "zkccgybnXXY",
+        "activities": [
+            {
+                "activity": "Bus",
+                "carbonFootprint": 3.9,
+                "category": "Transport",
+                "doneDate": "2024-12-15"
+            },
+            {
+                "activity": "Gas",
+                "carbonFootprint": 2.1,
+                "category": "Energy",
+                "doneDate": "2024-12-16"
+            }
+        ],
+        "id": 38878040,
+        "username": "frank_miller"
+    },
+    {
+        "password": "zkccgybnYYZ",
+        "activities": [
+            {
+                "activity": "Ketto",
+                "carbonFootprint": 2.4,
+                "category": "Food",
+                "doneDate": "2024-12-17"
+            },
+            {
+                "activity": "Electricity",
+                "carbonFootprint": 1.9,
+                "category": "Energy",
+                "doneDate": "2024-12-18"
+            }
+        ],
+        "id": -1859383345,
+        "username": "grace_lee"
+    },
+    {
+        "password": "zkccgybnZZ[",
+        "activities": [
+            {
+                "activity": "Train",
+                "carbonFootprint": 4.1,
+                "category": "Transport",
+                "doneDate": "2024-12-19"
+            },
+            {
+                "activity": "Vegan",
+                "carbonFootprint": 3.3,
+                "category": "Food",
+                "doneDate": "2024-12-20"
+            }
+        ],
+        "id": 283424930,
+        "username": "hank_king"
+    },
+    {
+        "password": "kvoh",
+        "activities": [],
+        "id": -1559466632,
+        "username": "alex"
+    },
+    {
+        "password": "kxnbos",
+        "activities": [],
+        "id": -23306532,
+        "username": "andrei"
+    },
+    {
+        "password": "wkbsec",
+        "activities": [{
+            "activity": "Electricity",
+            "carbonFootprint": 34,
+            "category": "Energy",
+            "doneDate": "2024-12-18"
+        }],
+        "id": -989793112,
+        "username": "marius"
+    },
+    {
+        "password": "kvoh",
+        "activities": [],
+        "id": -1660528649,
+        "username": "alex"
+    },
+    {
+        "password": "kvoh",
+        "activities": [],
+        "id": 1168107288,
+        "username": "alex"
+    }
+]
