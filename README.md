@@ -42,8 +42,7 @@ Carbon Footprint Tracker este o aplicație desktop realizată în **Java (Swing)
 ## 🛠️ Instalare și Configurare
 1️⃣ **Clonează proiectul**  
 ```bash
-git clone https://github.com/username/CarbonFootprintTracker.git
-cd CarbonFootprintTracker
+git clone https://github.com/padure11/Carbon-Footprint-Tracker
 ```
 
 2️⃣ **Configurează baza de date**  
