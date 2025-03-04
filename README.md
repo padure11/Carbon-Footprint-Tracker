@@ -9,15 +9,12 @@ Carbon Footprint Tracker este o aplicație desktop realizată în **Java (Swing)
 - **Java (Swing)** – Interfață grafică
 - **MySQL** – Stocarea datelor utilizatorului și activităților
 - **JDBC (Java Database Connectivity)** – Conectarea la baza de date
-- **CardLayout & JPanel** – Gestionarea interfeței grafice
-- **JLayeredPane** – Schimbarea dinamică a ferestrelor
-
 ## 🎯 Funcționalități
-✅ **Adăugarea activităților** – Utilizatorii pot introduce activități din categoriile Transport, Energie și Alimentație.  
-✅ **Provocarea zilnică** – În fiecare zi, utilizatorii primesc o provocare sustenabilă pentru a reduce impactul lor asupra mediului.  
-✅ **Statistici personalizate** – Utilizatorii pot vizualiza grafice despre consumul lor și compara emisiile de carbon din diferite perioade de timp.  
-✅ **Clasament (Leaderboard)** – Oferă utilizatorilor posibilitatea de a concura pentru cel mai mic nivel de emisii.  
-✅ **Pagini interactive** – Navigare ușoară între diferite secțiuni ale aplicației.
+ **Adăugarea activităților** – Utilizatorii pot introduce activități din categoriile Transport, Energie și Alimentație.  
+ **Provocarea zilnică** – În fiecare zi, utilizatorii primesc o provocare sustenabilă pentru a reduce impactul lor asupra mediului.  
+ **Grafice pentru statistici** – Utilizatorii pot vizualiza grafice despre consumul lor și compara emisiile de carbon din diferite perioade de timp.  
+ **Clasament (Leaderboard)** – Oferă utilizatorilor posibilitatea de a concura pentru cel mai mic nivel de emisii.  
+ **Pagini interactive** – Navigare ușoară între diferite secțiuni ale aplicației.
 
 ## 📂 Structura proiectului
 ```plaintext
@@ -55,21 +52,6 @@ cd CarbonFootprintTracker
 
 3️⃣ **Rulează aplicația**  
 - Deschide proiectul într-un IDE precum **IntelliJ IDEA** sau **Eclipse**.  
-- Rulează `MainScreen.java` pentru a porni aplicația.
+- Rulează `LoginScreen.java` pentru a porni aplicația.
 
-## 📌 Capturi de ecran
-📸 *Adaugă imagini ale interfeței grafice aici pentru o mai bună prezentare.*
-
-## 📌 Contribuție
-Dacă dorești să contribui la acest proiect:  
-1. Fă un **fork** al repository-ului  
-2. Creează un **branch nou** (`git checkout -b feature-noua`)  
-3. Fă modificările și creează un **pull request**  
-
-## 📜 Licență
-📄 Proiectul este licențiat sub **MIT License** – poate fi utilizat, modificat și distribuit liber.
-
----
-
-🔗 **Repository GitHub**: *[Adaugă link-ul repository-ului aici]*
 
